@@ -1,4 +1,16 @@
 # TOHFISH – Website bán sản phẩm cá và đặc sản TOH
+<user
+<img width="1904" height="876" alt="image" src="https://github.com/user-attachments/assets/a4ae4b93-47cc-4d27-9b48-cb205157731c" />
+<img width="1862" height="884" alt="image" src="https://github.com/user-attachments/assets/3f45cb4e-c212-4f04-a1a0-f1ef04d3b3ae" />
+<img width="1895" height="866" alt="image" src="https://github.com/user-attachments/assets/aeaae38e-c191-436e-9cff-b7d9f01537bd" />
+<img width="1897" height="869" alt="image" src="https://github.com/user-attachments/assets/d078e19f-f0e3-4177-ba8d-06312acec288" />
+<img width="1903" height="867" alt="image" src="https://github.com/user-attachments/assets/ab597e0e-ecc5-47c2-ad59-66cbac44b506" />
+<img width="1893" height="878" alt="image" src="https://github.com/user-attachments/assets/77d1cfe8-f4a2-41ba-bb9b-ad33c8babd77" />
+<admin
+<img width="1900" height="877" alt="image" src="https://github.com/user-attachments/assets/fbbd480f-f4bf-40c8-9726-d5943f4db630" />
+<img width="1918" height="879" alt="image" src="https://github.com/user-attachments/assets/4719e25a-67a1-4148-b2cc-e1007608dff0" />
+<img width="1895" height="872" alt="image" src="https://github.com/user-attachments/assets/b4bf98ad-90fc-4243-8065-2b692fd52a8e" />
+![Uploading image.png…]()
 
 TOHFISH là website thương mại điện tử giúp người dùng đặt mua các sản phẩm cá, hải sản và đặc sản TOH một cách nhanh chóng, tiện lợi.  
 Dự án được xây dựng với Laravel 9, tập trung vào trải nghiệm mua hàng đơn giản, rõ ràng và tích hợp thanh toán online.
